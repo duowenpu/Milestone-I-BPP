@@ -1,0 +1,739 @@
+,System,Organization(s),country
+0,GPT-4,OpenAI,American
+1,Phenaki,Google Brain,American
+2,Phenaki,University College London,England
+3,Phenaki,University of Michigan,The U.S
+4,Minerva (540B),Google Research,American
+5,PaLM (540B),Google Research,American
+6,OPT-175B,Meta AI,United Kingdom
+7,Chinchilla,DeepMind,London
+8,Parti,Google Research,American
+9,LaMDA,Google,American
+10,YaLM,Yandex,Russian
+11,AlexaTM 20B,Amazon,American
+12,BLOOM,Hugging Face,American
+13,BLOOM, BigScience,American
+14,GPT-NeoX-20B,EleutherAI,American
+15,Stable Diffusion (LDM-KL-8-G),Stability AI,"England, United Kingdom"
+16,Stable Diffusion (LDM-KL-8-G), Runway,American
+17,Whisper,OpenAI,American
+18,GLM-130B,Tsinghua KEG,American
+19,AlphaCode,DeepMind,London
+20,NLLB,Meta AI,United Kingdom
+21,Primer,Google Research,American
+22,Primer, Brain Team,American
+23,Gato,DeepMind,London
+24,GPT-SW3,AI Sweden,Swedish
+25,GPT-SW3, RISE,American
+26,Sparse all-MLP,MetaAI,American
+27,LiMoE,Google,American
+28,data2vec (vision),MetaAI,American
+29,data2vec (speech),MetaAI,American
+30,data2vec (language),MetaAI,American
+31,InstructGPT,OpenAI,American
+32,RETRO-7B,DeepMind,London
+33,MuZero VP9,DeepMind,London
+34,DeepNet,Microsoft Research,India
+35,Statement Curriculum Learning,OpenAI,American
+36,BaGuaLu,Tsinghua University,China
+37,DALL·E 2,OpenAI,American
+38,Flamingo,DeepMind,London
+39,Jurassic-X,AI21labs,Israel
+40,UL2,Google Research,American
+41,Imagen,Google Research,American
+42,MetaLM,Microsoft Research,India
+43,Make-A-Video,Meta AI,United Kingdom
+44,Galactica,Meta AI,United Kingdom
+45,CICERO,Meta AI,United Kingdom
+46,Imagen Video,Google Brain,American
+47,Megatron-LM (1T),Stanford,United States
+48,Megatron-LM (1T),Microsoft Research,India
+49,Megatron-LM (1T), NVIDIA,American
+50,Megatron-Turing NLG 530B,Microsoft,American
+51,Megatron-Turing NLG 530B, NVIDIA,American
+52,Gopher,DeepMind,London
+53,Yuan 1.0,Inspur,American
+54,Jurassic-1-Jumbo,AI21 Labs,Israel
+55,Source 1.0,Inspur,American
+56,ALIGN,Google AI,American
+57,Meta Pseudo Labels,Google AI,American
+58,Meta Pseudo Labels, Brain team,American
+59,Switch,Google Brain,American
+60,GOAT,DeepMind,London
+61,ProtT5-XXL,Technical University of Munich,Germany
+62,ProtT5-XXL, Med AI Technology,American
+63,ProtT5-XXL, Google AI,American
+64,ProtT5-XXL,NVIDIA,American
+65,ProtT5-XXL,Oak Ridge National Laboratory,United States
+66,HyperClova,Naver Corp,South Korea
+67,PanGu-α,PanGu-α team,American
+68,FLAN,Google Research,American
+69,DALL-E,OpenAI,American
+70,PLUG,Alibaba Group,Chinese
+71,CogView,Tsinghua University,China
+72,CogView,DAMO academy Alibaba,China
+73,T0-XXL,Hugging Face,American
+74,T0-XXL,Brown University,The United States
+75,CLIP (ViT L/14@336px),Open AI,American
+76,GPT-Neo,EleutherAI,Attica
+77,Wu Dao - Wen Lan,BAAI,American
+78,DeBERTa,Microsoft,American
+79,HuBERT,Facebook AI Research,United Kingdom
+80,M6-10T,Alibaba,Chinese
+81,NÜWA,Microsoft Research,India
+82,NÜWA,Peking University,China
+83,SEER,Facebook AI Research,United Kingdom
+84,SEER, Inria,American
+85,ViT-G/14,Google Research,American
+86,ViT-G/14, Brain Team,American
+87,NEO (DL:RM-2022),Facebook,US
+88,Wu Dao - Wen Yuan,BAAI,American
+89,PAGnol-XL,LightOn,American
+90,PAGnol-XL, LPENS,American
+91,Wu Dao - Wen Hui,BAAI,American
+92,Transformer local-attention (NesT-B),Google cloud AI,American
+93,Transformer local-attention (NesT-B), Google research,American
+94,Transformer local-attention (NesT-B),Rutgers University,New Jersey
+95,ERNIE 3.0,Baidu Inc. ,American
+96,Denoising Diffusion Probabilistic Models (LSUN Bedroom),UC Berkeley,American
+97,PCL-BAIDU Wenxin (ERNIE 3.0 Titan),Baidu,Chinese
+98,CLIP (ResNet-50),Open AI,American
+99,BigSSL,Google,American
+100,BigSSL,Apple,American
+101,Rational DQN Average,TU Darmstadt,Germany
+102,M6-10B,Tsinghua University,China
+103,M6-10B,Alibaba Group,Chinese
+104,M6-100B,Tsinghua University,China
+105,M6-100B,Alibaba Group,Chinese
+106,Wu Dao - Wen Su,BAAI,American
+107,Generative BST,Facebook AI Research,United Kingdom
+108,M6-T,Alibaba Group,Chinese
+109,DLRM-12T,Facebook AI,American
+110,Wu Dao 2.0,BAAI,American
+111,Codex,Open AI,American
+112,XLMR-XXL,Facebook AI Research,United Kingdom
+113,FLAN,Google Research,American
+114,MEB,Microsoft Bing,American
+115,T0-XXL,Hugging Face,American
+116,T0-XXL,Brown University,The United States
+117,T0-XXL, BigScience,American
+118,Cloob,Ellis Unit Linz and LIT AI Lab,Austria
+119,Cloob,Johannes Kepler University,Austria
+120,Cloob, IARIA Vienna,American
+121,Cloob,HERE Technologies,The Netherlands
+122,EfficientZero,Tsinghua University,China
+123,EfficientZero, UC Berkeley,American
+124,EfficientZero,Shanghai Qi Zhi institute,China
+125,Japanese dialog transformers,NTT Communication Science Laboratories,Japan
+126,Player of Games,DeepMind,London
+127,GLIDE,OpenAI,American
+128,XGLM,Meta AI,United Kingdom
+129,ERNIE-ViLG,Baidu,Chinese
+130,GPT-3 175B (davinci),OpenAI,American
+131,Meena,Google AI,American
+132,iGPT-XL,Open AI,American
+133,GShard (dense),Google Brain,American
+134,Turing NLG,Microsoft,American
+135,GShard (600B),Google Brain,American
+136,ViT-H/14,Google Research,American
+137,ViT-H/14, Brain Team,American
+138,iGPT-L,Open AI,American
+139,ALBERT-xxlarge,Google research,American
+140,ALBERT-xxlarge, Toyota Technological Institute at Chicago,American
+141,AraGPT2-Mega,American University of Beirut,American
+142,CPM-Large,Tsinghua University,China
+143,CPM-Large, BAAI,American
+144,Once for All,MIT-IBM Watson AI Lab,American
+145,wave2vec 2.0 LARGE,Facebook,US
+146,DLRM-2021,Facebook AI ,American
+147,ProGen,Salesforce research,American
+148,ProGen,Stanford,United States
+149,ELECTRA,Stanford University,United States
+150,ELECTRA, Google Brain,American
+151,KEPLER,Tsinghua University,China
+152,KEPLER,Princeton,The United States
+153,KEPLER,Mila- Quebec AI,"Montreal, Quebec"
+154,KEPLER, University de Montreal,American
+155,KEPLER, HEC,American
+156,KEPLER, CIFAR,American
+157,AlphaFold,DeepMind,London
+158,Theseus 6/768,UC San Diego,American
+159,Theseus 6/768,Beihang University,China
+160,Theseus 6/768,Microsoft,American
+161,Perceiver IO,DeepMind,London
+162,SimCLR,Google Research,American
+163,SimCLR, Brain Team,American
+164,ELECTRA,Stanford,United States
+165,ELECTRA, Google Brain,American
+166,MetNet,Google,American
+167,Agent57,DeepMind,London
+168,,Xiamen University,China
+169,,Australian National University,Australia
+170,,Carnegie Mellon University,USA
+171,MobileBERT,Carnegie Mellon University,USA
+172,MobileBERT, Google Brain,American
+173,CURL,UC Berkeley,American
+174,Go-explore,Uber AI,American
+175,Go-explore,OpenAI,American
+176,SqueezeBERT,Berkeley,United States
+177,Hopfield Networks (2020),Johannes Kepler University Linz,Austria
+178,Hopfield Networks (2020),Institute of Advanced Research in Artificial Intelligence,Austria
+179,Hopfield Networks (2020),University of Oslo,American
+180,EfficientDet,Google Research,American
+181,EfficientDet, Brain Team,American
+182,ERNIE-GEN (large),Baidu,Chinese
+183,ViT-Base/32,Google Research,American
+184,ViT-Base/32, Brain Team,American
+185,ViT-Huge/14,Google Research,American
+186,ViT-Huge/14, Brain Team,American
+187,SimCLRv2,Google Research,American
+188,SimCLRv2, Brain team,American
+189,AlphaFold2,DeepMind,London
+190,VQGAN + CLIP,Heidelberg University,Germany
+191,AlphaStar,DeepMind,London
+192,OpenAI Five,OpenAI,American
+193,Megatron-BERT,NVIDIA,American
+194,T5-11B,Google,American
+195,OpenAI Five Rerun,OpenAI,American
+196,T5-3B,Google,American
+197,"Megatron-LM (Original, 8.3B)",NVIDIA,American
+198,FTW,DeepMind,London
+199,MnasNet-A1 + SSDLite,Google ,American
+200,MnasNet-A3,Google ,American
+201,GPT-2,OpenAI,American
+202,Rubik's cube,Open AI,American
+203,MuZero,DeepMind,London
+204,ProxylessNAS,MIT,The United States
+205,ObjectNet,MIT,The United States
+206,AlphaX-1,Brown and Facebook AI Research,American
+207,DLRM-2020,Facebook AI,American
+208,Cross-lingual alignment,Tel Aviv University,Israel
+209,Cross-lingual alignment,MIT,The United States
+210,Decoupled weight decay regularization,University of Freiburg,Germany
+211,Hide and Seek,OpenAI,American
+212,Hanabi 4 player,DeepMind,London
+213,Hanabi 4 player,University of Oxford,England
+214,Hanabi 4 player, Google Brain,American
+215,Hanabi 4 player,Carnegie Mellon University,USA
+216,Hanabi 4 player, ,American
+217,Pluribus,Facebook AI Research,United Kingdom
+218,Transformer ELMo,AI2,American
+219,MT-DNN,Microsoft,American
+220,,Google Brain,American
+221,,Chinese Academy of Sciences,The People's Republic of China
+222,ResNet-50 Billion-scale,OpenAI,American
+223,ResNeXt-101 Billion-scale,Facebook AI,American
+224,CPC v2,DeepMind,London
+225,CPC v2,Berkeley,United States
+226,EfficientNet-L2,Google,American
+227,Grover-Mega,University of Washington,United States
+228,XLM,Facebook,US
+229,XLNet,Carnegie Mellon University,USA
+230,XLNet, Google AI Brain ,American
+231,AMDIM,Microsoft Research,India
+232,FixRes ResNeXt-101 WSL,Facebook AI,American
+233,RoBERTa,Facebook,US
+234,BigBiGAN,Google,American
+235,ALBERT,Google,American
+236,ALBERT, TTIC,American
+237,DistilBERT,HuggingFace,American
+238,BART-large,Facebook AI,American
+239,Noisy Student (L2),Carnegie Mellon University,USA
+240,Noisy Student (L2), Google,American
+241,MoCo,Facebook AI,American
+242,,University of Oxford,England
+243,StarGAN v2,NAVER AI Lab,France
+244,StarGAN v2, Yonsei University,American
+245,StarGAN v2,Swiss Federal Institute of Technology ,Switzerland
+246,Big Transfer (BiT-L),Google Research,American
+247,BigGAN-deep 512x512,Heriot-Watt University,Scotland
+248,BigGAN-deep 512x512,DeepMind,The United Kingdom
+249,AmoebaNet-A (F=448),Google Brain,American
+250,BERT-Large,Google AI,American
+251,IMPALA,DeepMind,London
+252,YOLOv3,University of Washington,United States
+253,Population-based DRL,DeepMind,London
+254,GPT,OpenAI,American
+255,Refined Part Pooling,Tsinghua University,China
+256,Refined Part Pooling, University of Technology Sydney,American
+257,Refined Part Pooling,University of Texas at San Antonio,United States
+258,ULM-FiT,University of San Francisco,American
+259,ULM-FiT,Insight Centre NUI Galway,Ireland
+260,ELMo,AllenAI,American
+261,ELMo,University of Washington,United States
+262,AmoebaNet-A (F=190),Google Brain,American
+263,DeepLabV3+,Google Inc.,American
+264,,Preferred Networks Inc,American
+265,, Ritsumeikan University,American
+266,,National Institute of Informatics,Japan
+267,,Northeastern University,Chinese
+268,,University of Rochester,United States
+269,Chinese - English translation,Microsoft,American
+270,Rotation,École des Ponts ParisTech,France
+271,ResNeXt-101 32x48d,Facebook,US
+272,MobileNetV2,Google Inc.,American
+273,ShuffleNet v2,Tsinghua University,China
+274,ShuffleNet v2,Megvii Inc,China
+275,,Northeastern University,Chinese
+276,ESRGAN,Chinese University of Hong Kong,American
+277,ESRGAN,Chinese Academy of Sciences,The People's Republic of China
+278,ESRGAN,Nanyang Technological University,Singapore
+279,MetaMimic,Google,American
+280,GPipe (Amoeba),Google,American
+281,GPipe (Transformer),Google,American
+282,AlphaGo Zero,DeepMind,London
+283,AlphaGo Master,DeepMind,London
+284,AlphaZero,DeepMind,London
+285,Libratus,Carnegie Mellon University,USA
+286,OpenAI TI7 DOTA 1v1,OpenAI,American
+287,JFT,Google Research,American
+288,JFT, CMU,American
+289,MoE,Google Brain,American
+290,MoE,Jagiellonian University,Poland
+291,MoE,Cracow,General Government
+292,PNASNet-5,Johns Hopkins University,United States
+293,PNASNet-5,Stanford,United States
+294,PNASNet-5, Google AI,American
+295,Transformer,Google Brain ; Google Research,American
+296,DeepStack,University of Alberta,Canada
+297,DeepStack,Charles University,The Czech Republic
+298,DeepStack, Czech Technical University,American
+299,,Harbin Institute of Technology,China
+300,,Hong Kong Polytechnic University,China
+301,,ULSee Inc.,Taiwan
+302,,Xi’an Jiaotong University,China
+303,,University of Toronto,Canada
+304,, Twitter,American
+305,Mask R-CNN,Facebook AI Research,United Kingdom
+306,,Montreal Institute for learning Algorithms,Quebec
+307,, Courant Institute of Mathematical Sciences,American
+308,MobileNet,Google Inc.,American
+309,,Google Inc.,American
+310,,University King College,England
+311,,Johns Hopkins University,United States
+312,,Twitter,American
+313,,DeepMind,London
+314,,University of Oxford,England
+315,PointNet++,Stanford University,United States
+316,,Seoul National University,American
+317,HRA,Microsoft Maluuba,Canadian
+318,DeepLabV3,Google Inc,American
+319,,Johannes Kepler University Linz,Austria
+320,NoisyNet-Dueling,DeepMind,London
+321,ShuffleNet v1,Megvii Inc,China
+322,NASNet-A,Google Brain,American
+323,,Chinese University of Hong Kong,American
+324,RetinaNet-R50,Facebook AI research,Montreal
+325,RetinaNet-R101,Facebook AI research,Montreal
+326,,University of Guelph,Canada
+327,,Canadian Institute for Advanced Research and Vector Institute,Canada
+328,NeuMF (Pinterest),NUS,American
+329,NeuMF (Pinterest),Columbia,U.S. state of South Carolina
+330,NeuMF (Pinterest),Shandong University,Chinese
+331,NeuMF (Pinterest),Texas A&M,The United States
+332,SENet (ImageNet),Chinese Academy of Sciences ; University of Oxford,The People's Republic of China
+333,,University of Technology Sydney,American
+334,CapsNet (MNIST),Google Brain,American
+335,CapsNet (MultiMNIST),Google Brain,American
+336,,Nvidia,American
+337,,Visual Computing Institute,American
+338,, Aachen University,American
+339,PNAS-net,Johns Hopkins University,United States
+340,PNAS-net,Stanford,United States
+341,PNAS-net, Google AI,American
+342,GNMT,Google,American
+343,NASv3 (CIFAR-10),Google Brain,American
+344,AlphaGo Lee,DeepMind,London
+345,Xception,Google,American
+346,Part-of-sentence tagging model,University of Toronto,Canada
+347,Named Entity Recognition model,University of Toronto,Canada
+348,R-FCN,Microsoft research,India
+349,R-FCN,Tsinghua university,China
+350,,The Robotics Institute,United States
+351,,Carnegie Mellon University,USA
+352,A3C FF hs,Google,American
+353,A3C FF hs, University of Montreal,American
+354,Inceptionv4,Google,American
+355,Inception-ResNet-V2,Google,American
+356,SqueezeNet,DeepScale,American
+357,SqueezeNet, UC Berkeley,American
+358,SqueezeNet,Stanford,United States
+359,,Nanjing University,China
+360,, University of Adelaide,American
+361,,Graz University of Technology,Austria
+362,,University of Oxford,England
+363,DMN,Salesforce,American
+364,,Google,American
+365,,Facebook AI research,Montreal
+366,,Facebook AI research,Montreal
+367,DenseNet-264,Tsinghua University,China
+368,DenseNet-264,Cornell,The United States
+369,DenseNet-264,Facebook AI research,Montreal
+370,,Chinese Academy of Sciences,The People's Republic of China
+371,, Chinese University of Hong Kong,American
+372,,Google DeepMind,American
+373,,Google,American
+374,Stacked hourglass network,University of Michigan,The U.S
+375,,Microsoft,American
+376,,ETH Zurich,Switzerland
+377,,The Chinese University of Hong Kong,Hong Kong
+378,,Shenzhen Institute of Advanced Technology,China
+379,MS-CNN,SVCL UC San Diego,American
+380,MS-CNN,IBM,American
+381,Wide Residual Network,Université Paris-Est,American
+382,,Google DeepMind,American
+383,,Seoul National University,American
+384,ResNeXt-50,UC San Diego,The United States's
+385,ResNeXt-50,Facebook,US
+386,PolyNet,The Chinese University of Hong Kong,Hong Kong
+387,RefineNet,University of Adelaide,American
+388,RefineNet, Australian Centre for Robotic Vision,American
+389,,UC Berkeley,American
+390,,DeepMind,London
+391,PointNet,Stanford,United States
+392,,OpenAI,American
+393,,UT Austin,American
+394,,Google Inc,American
+395,, UC Berkeley,American
+396,YOLOv2,University of Washington,United States
+397,YOLOv2,Allen Institute for AI,United States
+398,AlphaGo Fan,Google DeepMind,American
+399,DeepSpeech2,Baidu Research- Silicon Valley AI Lab,China
+400,"MSRA (C, PReLU)",Microsoft research,India
+401,ResNet-152 (ImageNet),Microsoft,American
+402,GoogLeNet / InceptionV1,Google,American
+403,GoogLeNet / InceptionV1,University of Michigan,The U.S
+404,GoogLeNet / InceptionV1, University of North Carolina,American
+405,,University of Oxford,England
+406,,Stanford University,United States
+407,,Baidu,Chinese
+408,DQN-2015,Google,American
+409,Constituency-Tree LSTM,Stanford,United States
+410,Constituency-Tree LSTM,MetaMind Inc,United States
+411,Fast R-CNN,Microsoft Research,India
+412,,University of Maryland,The United States
+413,,University of Texas,The United States
+414,, Google Inc.,American
+415,DSN,University of California,U.S
+416,DSN,Microsoft Research,India
+417,,Chinese University of Hong Kong,American
+418,,Chinese Academy of Sciences,The People's Republic of China
+419,Faster R-CNN,Microsoft Research,India
+420,YOLO,University of Washington,United States
+421,BatchNorm,Google,American
+422,,Google,American
+423,,Carnegie Mellon University,USA
+424,BPE,University of Edinburgh,Scotland
+425,,Google DeepMind,American
+426,,Google DeepMind,The United Kingdom
+427,,Princeton University,United States
+428,, Intel Labs,American
+429,,Netflix,American
+430,Inception v3,Google,American
+431,Inception v3,University College London,England
+432,ResNet-110 (CIFAR-10),Microsoft,American
+433,BPL,NYU,The US
+434,BPL,University of Toronto,Canada
+435,BPL,MIT,The United States
+436,Advantage Learning,Google DeepMind,The United Kingdom
+437,VGG16,University of Oxford,England
+438,Seq2Seq LSTM,Google,American
+439,SPPNet,Microsoft,American
+440,SPPNet,Xi’an Jiaotong University,China
+441,SPPNet,University of Science and Technology of China,China
+442,RNNsearch-50*,Universite de Montréal,American
+443,RNNsearch-50*,Jacobs University Bremen,Germany
+444,GANs,Universite de Montréal,American
+445,ADAM (CIFAR-10),University of Amsterdam,Netherlands
+446,ADAM (CIFAR-10),OpenAI,American
+447,ADAM (CIFAR-10),University of Toronto,Canada
+448,GloVe (6B),Stanford,United States
+449,GloVe (32B),Stanford,United States
+450,DBNs,Microsoft,American
+451,DBNs,University of Toronto,Canada
+452,HyperNEAT,University of Texas,The United States
+453,,University of Toronto,Canada
+454,GRUs,University of Montreal,Canada
+455,GRUs, Jacobs University,American
+456,GRUs, University du Maine,American
+457,,University of Oxford,England
+458,Multiresolution CNN,Stanford,United States
+459,Multiresolution CNN, Google,American
+460,,Tel Aviv University,Israel
+461,,Facebook,US
+462,SmooCT,University College London,American
+463,,Facebook,US
+464,VGG19,University of Oxford,England
+465,LRCN,UT Austin,American
+466,LRCN,UMass Lowell,United States
+467,LRCN, UC Berkeley,American
+468,,University of California,U.S
+469,,Berkeley,United States
+470,,The Chinese University of Hong Kong,Hong Kong
+471,NTM,Google DeepMind,The United Kingdom
+472,DeepLab,Google,American
+473,DeepLab,University of California Los Angeles,USA
+474,TransE,CNRS,French
+475,TransE, Google,American
+476,Visualizing CNNs,NYU,The US
+477,Mitosis,IDSIA,American
+478,Word2Vec (large),Google,American
+479,DQN,DeepMind,London
+480,Image generation,Univeristy of Amsterdam,Netherlands
+481,Image Classification with the Fisher Vector: Theory and Practice,Universidad Nacional de Cordoba,Argentina
+482,Image Classification with the Fisher Vector: Theory and Practice,Xerox Research Centre Europe,France
+483,Image Classification with the Fisher Vector: Theory and Practice,Inteligent Systems Lab Amsterdam,Netherlands
+484,Image Classification with the Fisher Vector: Theory and Practice,University of Amsterdam,Netherlands
+485,Image Classification with the Fisher Vector: Theory and Practice, LEAR Team,American
+486,Image Classification with the Fisher Vector: Theory and Practice, INRIA Grenoble,American
+487,,Stanford,United States
+488,Maxout Networks ,University of Montreal,Canada
+489,PreTrans-3L-250H,Univeristy of Toronto,Canada
+490,,Univeristy of Trento,Italian
+491,,University of Amsterdam,Netherlands
+492,,University of Trento,Italian
+493,,University of Amsterdam,Netherlands
+494,,Microsoft Research,India
+495,Word2Vec (small),Google,American
+496,R-CNN (T-net),UC Berkeley,American
+497,,Stanford,United States
+498,DBLSTM,Univeristy of Toronto,Canada
+499,Network in Network,National University of Singapore,American
+500,,New York University,United States
+501,AlexNet,University of Toronto,Canada
+502,Dropout (MNIST),University of Toronto,Canada
+503,MCDNN (MNIST),IDSIA,American
+504,Dropout (TIMIT),University of Toronto,Canada
+505,Dropout (CIFAR),University of Toronto,Canada
+506,Dropout (ImageNet),University of Toronto,Canada
+507,,Karlsruhe Institute of Technology,Germany
+508,, Toyota Technological Institute at Chicago,American
+509,,Google,American
+510,MV-RNN,Stanford,United States
+511,,University of Toronto,Canada
+512,,University of Sherbrooke,Quebec
+513,, Harvard University,American
+514,,University of Michigan,The U.S
+515,,Stanford University,United States
+516,,University of Montreal,Canada
+517,,Brno University of Technology,American
+518,,Johns Hopkins University,United States
+519,,Carnegie Mellon University,USA
+520,, Google Research,American
+521,,Stanford,United States
+522,Bayesian Starcraft,Collège de France,American
+523,,Univeristy of California Berkley,U.S
+524,,Technion- Israel Institute of Technology,Israel
+525,, Google,American
+526,Domain Adaptation,University of Maryland,The United States
+527,Domain Adaptation,College Park,United States
+528,NLP from scratch,NEC Laboratories,US
+529,NLP from scratch,Princeton,The United States
+530,,University of Wisconsin Madison,American
+531,KN5 LM + RNN 400/10 (WSJ),Brno University of Technology,American
+532,KN5 LM + RNN 400/10 (WSJ),Johns Hopkins University,United States
+533,RNN 500/10 + RT09 LM (NIST RT05),Brno University of Technology,American
+534,RNN 500/10 + RT09 LM (NIST RT05),Johns Hopkins University,United States
+535,Feedforward NN,University of Montreal,Canada
+536,6-layer MLP (MNIST),IDSIA ; University of Lugano & SUPSI,American
+537,,University of Montreal,Canada
+538,,University of Toronto,Canada
+539,Word Representations,University of Montreal,Canada
+540,Word Representations,University of Illinois at Urbana- Champaigne,U.S
+541,,INRIA,American
+542,, Ecole,American
+543,,NYU,The US
+544,Deconvolutional Network,NYU,The US
+545,ReLU (NORB),University of Toronto,Canada
+546,ReLU (LFW),University of Toronto,Canada
+547,,University of Toronto,Canada
+548,,Xerox Research Centre Europe (XRCE),France
+549,,Google Inc,American
+550,,Harvard,The United States
+551,GPU DBNs,Stanford,United States
+552,Deep Boltzmann Machines,University of Toronto,Canada
+553,,Stanford,United States
+554,BellKor 2008,AT&T Labs,American
+555,RL mapping instructions (games),MIT,The United States
+556,,AT&T Labs,American
+557,,AT&T Labs,American
+558,,Pragmatic Theory Inc.,American
+559,RL mapping instructions (troubleshooting),MIT,The United States
+560,,AT&T Labs,American
+561,, Yahoo Research,American
+562,,University of Edinburgh,Scotland
+563,,University of Pittsburgh,United States
+564,BellKor 2007,AT&T Labs,American
+565,,University of Washington,United States
+566,,Cornell,The United States
+567,,Microsoft Research,India
+568,,University of Colorado & New Mexico State University,United States
+569,,University of Montreal,Canada
+570,,Microsoft Research,India
+571,,University of Chicago & Toyota Technological Institute,American
+572,,Chicago & University of California,United States of America
+573,,Irvine,United States
+574,Denoising Autoencoders,University of Montreal,Canada
+575,,Google,American
+576,,NUANCE Communications,American
+577,, UIUC,American
+578,, IDIAP,American
+579,,NEC Laboratories,US
+580,Stacked Semisuperviser Autoencoders,New York University and Microsoft Research Cambridge,American
+581,Boss (DARPA Urban Challenge),Carnegie Mellon University,USA
+582,,Univeristy of Lubeck,Germany
+583,, Germany,American
+584,BigChaos 2008,AT&T Labs,American
+585,Semantic Hashing,University of Toronto,Canada
+586,,University of Edinburgh,Scotland
+587,λ-WASP,UT Austin,American
+588,,University of Montreal,Canada
+589,Restricted Bolzmann machines,University of Toronto,Canada
+590,,Warsaw University,American
+591,,University of Bern,Swiss
+592,, IDSIA,American
+593,,TU Munich,Germany
+594,,AT&T Labs,American
+595,,NEC Laboratories,US
+596,,Google Zurich,Switzerland
+597,BLSTM,University of Bern,Swiss
+598,BLSTM, IDSIA,American
+599,BLSTM,TU Munich,Germany
+600,Stanley (DARPA Grand Challenge 2),Stanford University,United States
+601,,CRAN,American
+602,, CENPARMI,American
+603,,Stanford and UC Berkeley,American
+604,FAST,University of Cambridge,England
+605,,University of Illinois,The United States
+606,, INRIA,American
+607,,Ecole Normale,France
+608,DrLIM,New York University,United States
+609,CTC-Trained LSTM,IDSIA,American
+610,CTC-Trained LSTM, TUM,American
+611,Semantic Taxonomy Induction,Stanford University,United States
+612,DImensionality Reduction,University of Toronto,Canada
+613,Deep Belief Nets,University of Toronto,Canada
+614,Deep Belief Nets, NUS,American
+615,,Machine Vision group,American
+616,, Finland,American
+617,,NYU,The US
+618,,University of Montreal,Canada
+619,BiLSTM for Speech,IDSIA and TU Munich,American
+620,SACHS,MIT and Stanford,American
+621,Hiero,University of Maryland,The United States
+622,Hiero,College Park,United States
+623,,University of the Balearic Islands and CMLA,American
+624,,New York University,United States
+625,,Inria Grenoble Rhône-Alpes,American
+626,,Stanford University,United States
+627,,Soongsil University,American
+628,Sandstorm (DARPA Grand Challenge I),Carnegie Mellon University,USA
+629,,University of Sussex,American
+630,LIRA,Instituto de Ciencias Aplicadas y Technologia,American
+631,NPLM,Université de Montréal,American
+632,,University of Washington,United States
+633,,California Institute of Technology,American
+634,LDA,University of California,U.S
+635,LDA,Stanford University,United States
+636,Phrase-based translation,University of Southern California,United States
+637,Unsupervised Scale-Invariant Learning,University of Oxford,England
+638,CNN Best Practices,One Microsoft Way,American
+639,Thumbs Up?,Cornell University and IBM Almaden Research Center,American
+640,,AT&T Labs,American
+641,,University of Southern California,United States
+642,,IDSIA Switzerland,American
+643,,RWTH Aachen and University of Southern California,American
+644,,IBM TJ Watson Research Centre,USA
+645,,Korea Advanced Institute of Science and Technology,South Korea
+646,Decision tree (classification),Mitsubishi Electric Research Labs and Compaq CRL,American
+647,Immediate trihead,Brown University,The United States
+648,,Stanford University,United States
+649,,University of Minnesota,United States
+650,Peephole LSTM,IDSIA Switzerland,American
+651,,University of Rochester,United States
+652,,RWTH Aachen - University of Technology,American
+653,LSTM with forget gates,IDSIA Switzerland,American
+654,IBM Model 4,University of Southern California & IBM & University of Pennsylvania,American
+655,,University of California San Diego & Shannon Laboratory,American
+656,, AT&T Labs,American
+657,LeNet-5,AT&T Labs,American
+658,RNN for speech,National Chiao Tung University,China-Taiwan
+659,,Johns Hopkins University,United States
+660,,Carnegie Mellon University,USA
+661,,AT&T Labs and Rutgers University and Bell Communications Research,American
+662,LSTM,The Technical University of Munich,Germany
+663,,MIT,The United States
+664,,Cambridge University Engineering & Carnegie Mellon University,United Kingdom
+665,BRNN,ATR Labs,American
+666,BRNN, Japan,American
+667,,UC Davis,American
+668,,Cornell,The United States
+669,System 11,Carnegie Mellon University,USA
+670,HMM Word Alignment,University of Erlangen - Nuremburg,American
+671,,Xerox,American
+672,,University of Pennsylvania,U.S
+673,Random Decision Forests,AT&T Bell Laboratories,American
+674,Support Vector Machines,AT&T Bell Laboratories,American
+675,,EURECOM,French
+676,GroupLens,Massachusetts Institute of Technology,The United States
+677,IBM-5,IBM T.J. Watson Research Center,U.S
+678,TD-Gammon,IBM,American
+679,Fuzzy NN,Indian Statistical Institute,India
+680,,Northeastern University,Chinese
+681,DIABETES,Aalborg University,Danish
+682,,University of California,U.S
+683,,San Diego,United States
+684,MADALINE III,University of Stanford,United States
+685,,Air Force Institute of Technology,United States
+686,,OH,United States
+687,, USA,American
+688,ALVINN,Carnegie Mellon University ,American
+689,Zip CNN,AT&T Bell Laboratories,American
+690,Innervator,Stanford,United States
+691,Innervator, CalTech,American
+692,Q-learning,University of London,American
+693,Time-delay neural networks,Carnegie Mellon University & ATR Interpreting Telephony Research Laboratories & University of Toronto ,American
+694,,Technische Universität Wien Austria & University of California,"Vienna, Austria"
+695,,Roke Manor Research,United Kingdom
+696,MADALINE II,Stanford University,United States
+697,Adaptive Broom Balancer,Stanford University,United States
+698,NetTalk,Princeton University,United States
+699,,University of California,U.S
+700,,Santa Cruz,Bolivia
+701,Back-propagation,University of California,U.S
+702,,University of California and University of Carnegie Mellon,American
+703,Learning past tenses,Stanford,United States
+704,,University of California,U.S
+705,,Massachusetts Institute of Technology,The United States
+706,,MIT,The United States
+707,ASE+ACE,Stanford,United States
+708,Hopfield network,California Institute of Technology,American
+709,Kohonen network,Helsinki University of Technology,Finland
+710,Neocognitron,NHK Broadcasting Science Research Laboratories,Japan
+711,,Utrecht University,The Netherlands
+712,TD(0),University of Essex,England
+713,Cognitron,Biological Cybernetics,American
+714,Naive Bayes,Stanford Research Institute,United States
+715,Bootstrap Adaptation,IEEE,The United States
+716,Punish/Reward,Massachusetts Institute of Technology,The United States
+717,GLEE,University of Edinburgh,Scotland
+718,BOXES,University of Edinburgh,Scotland
+719,Samuel Neural Checkers II,University of Geneva,Switzerland
+720,STeLLA,University of Canterbury,New Zealand
+721,MENACE,University of Edinburgh,Scotland
+722,MADALINE I,Stanford University,United States
+723,,Massachusetts Institute of Technology (MIT),The United States
+724,,Massachusetts Institute of Technology (MIT),The United States
+725,,The University of Genoa,Italy
+726,ADALINE,Stanford University,United States
+727,LMS,Stanford University,United States
+728,Pandemonium (morse),Massachusetts Institute of Technology,The United States
+729,Samuel Neural Checkers,IBM,American
+730,Pattern recognition and reading by machine,Sandia Corporation,U.S
+731,Perceptron Mark I,Cornell Aeronautical Laboratory,American
+732,,Princeton University,United States
+733,Self Organizing System,Massachusetts Institute of Technology,The United States
+734,,Massachusetts Institute of Technology,The United States
+735,,Institute for Advanced Study,The United States
+736,SNARC,Harvard University Psychological Laboratories,United States
+737,Theseus,Bell Laboratories,The United States
